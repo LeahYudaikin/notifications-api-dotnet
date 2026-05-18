@@ -88,11 +88,13 @@ curl -X POST http://localhost:3000/notifications/send-bulk
 
 **4)** I added 3 attempts to send a message to simulate a real system. It won't crash after one attempt to send.
 
-```
+
+
 Used to fix the code in: ChatGPT
 
 Translation: TranslateGoogle
-```
+
+
 ## Thank you very much.
 
 #
